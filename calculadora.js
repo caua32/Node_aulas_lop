@@ -17,7 +17,7 @@ function subtrair(n1,n2){
 function multiplicação(n1,n2){
     n1 = Number(readline.question("Informe o primeiro numero: "))
     n2 = Number(readline.question("Informe o segundo numero: "))
-    res = n1 + n2 
+    res = n1 * n2 
     console.log(res)
 }
 
